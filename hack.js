@@ -131,7 +131,7 @@ document.getElementById("loc2").style.color = "blue";
     
     document.getElementById("cmd").value = "$cmd";
     
-    document.getElementById("output").innerHTML = "Obrigado por passar por esta simulação! Espero que tenha gostado. Sinta-se à vontade para sugerir melhorias! Por favor, deixe um like :). Você pode executar  \"  $ cmd -deploy previous \" para voltar aos tempos de lançamento que você foi capaz de hackear    .";
+    document.getElementById("output").innerHTML = "Obrigado por passar por esta simulação! Espero que tenha gostado. Você pode executar  \"  $ cmd -deploy previous \" para voltar aos tempos de lançamento que você foi capaz de hackear    .";
     
     step++;
     }
